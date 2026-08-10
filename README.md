@@ -1,5 +1,6 @@
 # Welcome / Добро пожаловать!  👋  👋  👋 
-[Альтернативный текст](https://www.flaticon.com/ru/free-icon/beetle_2161976?term=%D0%B6%D1%83%D0%BA&page=1&position=15&origin=search&related_id=2161976)
+![alt text](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/40d2c7ef-1d86-4d09-9cd6-7195918bc560" />
+)
 
 ---
 
