@@ -1,12 +1,12 @@
 # Welcome / Добро пожаловать!  👋  👋  👋 
-![alt text](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/40d2c7ef-1d86-4d09-9cd6-7195918bc560" />
-)
+
 
 ---
 
 ### 👨‍💻 Обо мне:
 
-Меня зовут Влад, я Manual тестировщик. Закончил обучение в Корпоративном университете Сбербанка, по направлению QA Engineer, и Python начального уровня. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.  
+Меня зовут Владислав, я начинаю свой путь в ручном тестировании. Закончил обучение в 
+Корпоративном университете Сбербанка, по направлению QA Engineer, и Python начального уровня. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.  
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
