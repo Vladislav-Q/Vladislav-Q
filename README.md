@@ -7,13 +7,12 @@
 
 Я начал свой путь в ручном тестировании. Закончил обучение на платформе Stepik и в 
 Корпоративном университете Сбербанка, по направлению QA Engineer, и Python. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.
-Моё резюме: [клик](https://drive.google.com/file/d/1yVoAqITBfv1HE3Dlhxhu8lLfgIe2HkW1/view?usp=sharing)
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+Моё резюме: [клик](https://drive.google.com/file/d/1yVoAqITBfv1HE3Dlhxhu8lLfgIe2HkW1/view?usp=sharing)
 
 ---
 
-### 🤝 Социальные сети:
+## Инструменты которые помогают мне в работе:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
@@ -82,12 +81,16 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+<div align="center">
+Напиши мне:
+  
+[![Email](https://shields.io)](mailto:xadeptxd@gmail.com)
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/02896200-11cb-4be2-8a11-24ad4a88f851" />
 
---- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vladislav-Q)
+</div>
+
