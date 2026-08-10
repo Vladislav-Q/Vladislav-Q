@@ -6,7 +6,7 @@
 ## 👨‍💻 Обо мне:
 
 Я начал свой путь в ручном тестировании. Закончил обучение на платформе Stepik и в 
-Корпоративном университете Сбербанка, по направлению QA Engineer, и Python уровня. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.
+Корпоративном университете Сбербанка, по направлению QA Engineer, и Python. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.
 Моё резюме: [клик](https://drive.google.com/file/d/1yVoAqITBfv1HE3Dlhxhu8lLfgIe2HkW1/view?usp=sharing)
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
