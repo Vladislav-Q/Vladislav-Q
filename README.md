@@ -1,12 +1,12 @@
-Добро пожаловать! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2b40d2c4-8ea6-49a5-8abd-747da63aaf08" />
+Рад тебя здесь видеть, меня зовут Владислав! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
 
 
 ---
 
 ### 👨‍💻 Обо мне:
 
-Меня зовут Владислав, я начинаю свой путь в ручном тестировании. Закончил обучение в 
-Корпоративном университете Сбербанка, по направлению QA Engineer, и Python начального уровня. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.  
+Меня зовут Владислав, я начинаю свой путь в ручном тестировании. Закончил обучение на платформе Stepik и в 
+Корпоративном университете Сбербанка, по направлению QA Engineer, и Python уровня. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.  
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
