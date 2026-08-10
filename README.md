@@ -1,4 +1,4 @@
-# Welcome / Добро пожаловать!  👋  👋  👋 
+Добро пожаловать! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2b40d2c4-8ea6-49a5-8abd-747da63aaf08" />
 
 
 ---
