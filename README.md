@@ -3,7 +3,7 @@
 # Привет, меня зовут Владислав! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
 
 
-## 👨‍💻 Обо мне:
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> Обо мне:
 
 Я начинающий ручной тестировщик. Закончил обучение на платформе Stepik и в 
 Корпоративном университете Сбербанка, по направлению QA Engineer, и Python. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.
@@ -17,14 +17,15 @@
 <div>
 	<img src="https://www.readmecodegen.com/api/social-icon?name=googlechrome&size=40&showText=true&text=DevTools" alt="googlechrome" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=postman&size=40&showText=true" alt="postman" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=swagger&size=40&showText=true" alt="swagger" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=dbeaver&size=40&showText=true" alt="dbeaver" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=40&showText=true" alt="postgresql" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=40&showText=true" alt="python" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=40&showText=true" alt="mongodb" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=gnubash&size=40&color=%23000000&showText=true&text=Bash" alt="gnubash" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=40&showText=true" alt="figma" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=dbeaver&size=40&showText=true" alt="dbeaver" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=swagger&size=40&showText=true" alt="swagger" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=jira&size=40&showText=true" alt="jira" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=40&showText=true" alt="figma" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=40&showText=true" alt="python" />
+	<img src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg" alt="python" width="50" />
 	
   
 </div>
