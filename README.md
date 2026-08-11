@@ -24,10 +24,13 @@
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9951c952-a868-4c96-9a75-1175c2b6a68c" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4b86877e-b2b1-480c-8e5d-95110582e3bd" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6220a584-55aa-401e-aa9b-a59f816a18fe" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=jira&size=40&showText=true" alt="jira" />
+	<img width="50" height="50" alt="image" src="https://testit.software/local/templates/testit/img/common/logo-blue.svg"/>
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48293a58-f70f-4859-91eb-9662301f4d59" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3625eec0-bef3-4b63-aa7f-830e0d3ae293" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/50e78675-39b3-4cbf-a4ee-67488f174478" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b3fc74c5-fb20-40a4-adff-4c4ec4f07ae8" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e57cc245-8245-43fb-aae6-de3c5c50a4b0" />
+
+
 </div>
 
 <p align="center">
