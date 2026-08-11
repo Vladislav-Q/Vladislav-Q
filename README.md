@@ -1,9 +1,9 @@
 
 ---
-## Привет, меня зовут Владислав! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
+## Привет, меня зовут Владислав! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6e6cf76a-84e1-4ff6-9b58-e7783f2f0fc7" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
 
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> **Обо мне:**
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> **Обо мне:**
 
 <img align="right" src="https://github.com/user-attachments/assets/074fd55f-b39b-4873-9619-58b12db8cba8" height="380" alt="work">
 
@@ -14,7 +14,7 @@
 
 
 
-**Инструменты которые помогают мне в работе:**
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1e87e76b-7609-45b4-b62d-126e6e1feb95" /> **Инструменты которые помогают мне в работе:**
 
 <div>
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0b986801-b594-433a-a1b7-569c4cb3979e" />
