@@ -3,16 +3,17 @@
 # Привет, меня зовут Владислав! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
 
 
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> Обо мне:
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> Обо мне:
+
+<img align="right" width="467" height="374" alt="image1" src="https://github.com/user-attachments/assets/7d9aa8e7-3d5f-40bb-9289-79403877842d" />
 
 Я начинающий ручной тестировщик. Закончил обучение на платформе Stepik и в 
 Корпоративном университете Сбербанка, по направлению QA Engineer, освоил Python на начальном уровне. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.
-
 Моё резюме: [клик](https://drive.google.com/file/d/1yVoAqITBfv1HE3Dlhxhu8lLfgIe2HkW1/view?usp=sharing)
 
 
 
-## Инструменты которые помогают мне в работе:
+******Инструменты которые помогают мне в работе:******
 
 <div>
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0b986801-b594-433a-a1b7-569c4cb3979e" />
