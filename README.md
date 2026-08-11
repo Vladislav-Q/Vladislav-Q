@@ -21,12 +21,12 @@
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a411745e-2501-42d5-a84f-e27224c2469b" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f0a0f9ca-de75-48f4-9592-2c981b38eebb" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0f7892a8-d63c-4928-bbb5-470359201b93" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=40&showText=true" alt="postgresql" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=40&showText=true" alt="mongodb" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=gnubash&size=40&color=%23000000&showText=true&text=Bash" alt="gnubash" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9951c952-a868-4c96-9a75-1175c2b6a68c" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4b86877e-b2b1-480c-8e5d-95110582e3bd" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6220a584-55aa-401e-aa9b-a59f816a18fe" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=jira&size=40&showText=true" alt="jira" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48293a58-f70f-4859-91eb-9662301f4d59" />
-	<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=40&showText=true" alt="python" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3625eec0-bef3-4b63-aa7f-830e0d3ae293" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/50e78675-39b3-4cbf-a4ee-67488f174478" />
 </div>
 
