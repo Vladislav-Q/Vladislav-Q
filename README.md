@@ -86,7 +86,11 @@
   
 [![Email](https://shields.io)](mailto:xadeptxd@gmail.com)
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/02896200-11cb-4be2-8a11-24ad4a88f851" />
+<a href="https://t.me/vlados_lovandos">
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d9e96652-cb78-4587-a0a4-2eedd6febfb1" />
+</a>
+
+
 
 
 ---
