@@ -38,9 +38,7 @@
   <a href="https://t.me/vlados_lovandos" target="_blank" rel="noopener noreferrer" style="margin-right: 12px; text-decoration: none; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/d9e96652-cb78-4587-a0a4-2eedd6febfb1" alt="Telegram" width="40" height="40" style="vertical-align: middle;">
   </a>
-
-</div>
-<div align="center"> 
+</div><div align="center"> 
 	<a href="mailto:komarov-vlad@list.ru" style="text-decoration: none; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/e7fd1787-2dbe-4508-98d1-5ade5daa597f" alt="Email" width="40" height="40" style="vertical-align: middle;">
   </a>
