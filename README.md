@@ -1,6 +1,6 @@
 
 ---
-# Привет, меня зовут Владислав! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
+## Привет, меня зовут Владислав! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
 
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> **Обо мне:**
@@ -28,14 +28,7 @@
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48293a58-f70f-4859-91eb-9662301f4d59" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=40&showText=true" alt="python" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/50e78675-39b3-4cbf-a4ee-67488f174478" />
-
-	
-  
 </div>
-
-
-
-
 
 <p align="center">
   <b>Написать мне:</b>
