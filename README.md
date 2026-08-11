@@ -24,13 +24,13 @@
 	<img width="50" height="50" alt="DBeawer" title="DBeawer" src="https://github.com/user-attachments/assets/0f7892a8-d63c-4928-bbb5-470359201b93" />
 	<img width="50" height="50" alt="PostgreSQL" title="PostgreSQL" src="https://github.com/user-attachments/assets/9951c952-a868-4c96-9a75-1175c2b6a68c" />
 	<img width="50" height="50" alt="MongoDB" title="MongoDB" src="https://github.com/user-attachments/assets/4b86877e-b2b1-480c-8e5d-95110582e3bd" />
-	<img width="50" height="50" alt="GitBash" titile="GitBash" src="https://github.com/user-attachments/assets/f647a87d-d298-40e2-b1cd-ad0782933128" />
-	<img width="50" height="50" alt="TestIT" titile="TestIT" src="https://testit.software/local/templates/testit/img/common/logo-blue.svg"/>
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48293a58-f70f-4859-91eb-9662301f4d59" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3625eec0-bef3-4b63-aa7f-830e0d3ae293" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b3fc74c5-fb20-40a4-adff-4c4ec4f07ae8" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e57cc245-8245-43fb-aae6-de3c5c50a4b0" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/34092450-4006-4770-be75-0debc7d25442" />
+	<img width="50" height="50" alt="GitBash" title="GitBash" src="https://github.com/user-attachments/assets/f647a87d-d298-40e2-b1cd-ad0782933128" />
+	<img width="50" height="50" alt="TestIT" title="TestIT" src="https://testit.software/local/templates/testit/img/common/logo-blue.svg"/>
+	<img width="50" height="50" alt="Figma" title="Figma" src="https://github.com/user-attachments/assets/48293a58-f70f-4859-91eb-9662301f4d59" />
+	<img width="50" height="50" alt="Python" title="Python" src="https://github.com/user-attachments/assets/3625eec0-bef3-4b63-aa7f-830e0d3ae293" />
+	<img width="50" height="50" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/user-attachments/assets/b3fc74c5-fb20-40a4-adff-4c4ec4f07ae8" />
+	<img width="50" height="50" alt="Android Studio" title="Android Studio" src="https://github.com/user-attachments/assets/e57cc245-8245-43fb-aae6-de3c5c50a4b0" />
+	<img width="50" height="50" alt="Charles Proxy" title="Charles Proxy" src="https://github.com/user-attachments/assets/34092450-4006-4770-be75-0debc7d25442" />
 </div>
 
 <p align="center">
@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/vlados_lovandos"><img src="https://github.com/user-attachments/assets/d9e96652-cb78-4587-a0a4-2eedd6febfb1" alt="Telegram" width="50"></a>&nbsp;&nbsp;
-  <a href="mailto:komarov-vlad@list.ru"><img src="https://github.com/user-attachments/assets/e7fd1787-2dbe-4508-98d1-5ade5daa597f" alt="Email" width="50"></a>
+  <a alt="@vlados_lovandos" title="@vlados_lovandos" href="https://t.me/vlados_lovandos"><img src="https://github.com/user-attachments/assets/d9e96652-cb78-4587-a0a4-2eedd6febfb1" alt="Telegram" width="50"></a>&nbsp;&nbsp;
+  <a alt="komarov-vlad@list.ru" title="komarov-vlad@list.ru" href="mailto:komarov-vlad@list.ru"><img src="https://github.com/user-attachments/assets/e7fd1787-2dbe-4508-98d1-5ade5daa597f" alt="Email" width="50"></a>
 </p>
 
 ---
