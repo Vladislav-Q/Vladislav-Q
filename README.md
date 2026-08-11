@@ -19,7 +19,11 @@
 	<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=40&showText=true" alt="python" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=40&showText=true" alt="mongodb" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=gnubash&size=40&color=%23000000&showText=true&text=Bash" alt="gnubash" />
-
+	<img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=40&showText=true" alt="figma" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=dbeaver&size=40&showText=true" alt="dbeaver" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=swagger&size=40&showText=true" alt="swagger" />
+	<img src="https://www.readmecodegen.com/api/social-icon?name=jira&size=40&showText=true" alt="jira" />
+	
   
 </div>
 
