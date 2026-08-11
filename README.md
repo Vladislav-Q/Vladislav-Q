@@ -1,6 +1,6 @@
 
 ---
-## Привет, меня зовут Владислав! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6e6cf76a-84e1-4ff6-9b58-e7783f2f0fc7" /> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
+## Привет, меня зовут Владислав! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6e6cf76a-84e1-4ff6-9b58-e7783f2f0fc7" /> <img title="УУУУ Я ЖУК БАГ Я СЛОМАЮ ТВОЙ КОД" width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f1fa6fcb-5f96-4a7f-bc95-4b379862cd5c" />
 
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> **Обо мне:**
