@@ -14,37 +14,58 @@
 
 ## Инструменты которые помогают мне в работе:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+<div>
 
+  <img src="https://postman-image-service.postman.com/api/cloudinary-proxy/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="40" height="40" alt="Postman Logo" />
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40" alt="Postman Logo" />
+  <img src="https://git-scm.com/images/logo@2x.png" width="100" height="40" alt="Postman Logo" />
+  <img src="https://postman-image-service.postman.com/api/cloudinary-proxy/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="40" height="40" alt="Postman Logo" />
+  <img src="https://postman-image-service.postman.com/api/cloudinary-proxy/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="40" height="40" alt="Postman Logo" />
+  
+
+</div>
+
+<div align="center">
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="WebSocket" title="WebSocket"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png" alt="gRPC" title="gRPC"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png" alt="SOAP" title="SOAP"/></code>
+</div>
+
+<div >
+	<table>
+		<tr>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+		</tr>
+	</table>
+</div>
 ---
 
 
 
 
 
-<div style="text-align: center; margin-bottom: 16px;">
+<div align="center">
   <p style="font-size: 18px; font-weight: 600; margin: 0 0 12px 0;">Напиши мне:</p>
-  <a href="https://t.me/vlados_lovandos" target="_blank" style="margin-right: 12px;">
+  <a href="https://t.me/vlados_lovandos" target="_blank" rel="noopener noreferrer" style="margin-right: 12px; text-decoration: none; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/d9e96652-cb78-4587-a0a4-2eedd6febfb1" alt="Telegram" width="40" height="40" style="vertical-align: middle;">
   </a>
-  <a href="mailto:xadeptxd@gmail.com">
+  <a href="mailto:komarov-vlad@list.ru" style="text-decoration: none; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/e7fd1787-2dbe-4508-98d1-5ade5daa597f" alt="Email" width="40" height="40" style="vertical-align: middle;">
   </a>
 </div>
 
 
-
-
-
 ---
+<div align="center">
+  
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vladislav-Q)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vladislav-Q)
 </div>
 
