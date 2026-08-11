@@ -5,7 +5,7 @@
 
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> Обо мне:
 
-<img align="right" width="467" height="374" alt="image1" src="https://github.com/user-attachments/assets/7d9aa8e7-3d5f-40bb-9289-79403877842d" />
+<img align="right" width="600" height="450" alt="image1" src="https://github.com/user-attachments/assets/7d9aa8e7-3d5f-40bb-9289-79403877842d" />
 
 Я начинающий ручной тестировщик. Закончил обучение на платформе Stepik и в 
 Корпоративном университете Сбербанка, по направлению QA Engineer, освоил Python на начальном уровне. Там же стажировался в направлениях Web, Backend, Mobile, составление документации.
