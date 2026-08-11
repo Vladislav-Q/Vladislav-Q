@@ -15,17 +15,17 @@
 ## Инструменты которые помогают мне в работе:
 
 <div>
-	<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0b986801-b594-433a-a1b7-569c4cb3979e" />
-	<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a411745e-2501-42d5-a84f-e27224c2469b" />
-	<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f0a0f9ca-de75-48f4-9592-2c981b38eebb" />
-	<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0f7892a8-d63c-4928-bbb5-470359201b93" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0b986801-b594-433a-a1b7-569c4cb3979e" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a411745e-2501-42d5-a84f-e27224c2469b" />
+	<img width="50" height="500" alt="image" src="https://github.com/user-attachments/assets/f0a0f9ca-de75-48f4-9592-2c981b38eebb" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0f7892a8-d63c-4928-bbb5-470359201b93" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=40&showText=true" alt="postgresql" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=40&showText=true" alt="mongodb" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=gnubash&size=40&color=%23000000&showText=true&text=Bash" alt="gnubash" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=jira&size=40&showText=true" alt="jira" />
-	<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/48293a58-f70f-4859-91eb-9662301f4d59" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48293a58-f70f-4859-91eb-9662301f4d59" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=40&showText=true" alt="python" />
-	<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/50e78675-39b3-4cbf-a4ee-67488f174478" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/50e78675-39b3-4cbf-a4ee-67488f174478" />
 
 	
   
