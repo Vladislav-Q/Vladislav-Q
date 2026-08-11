@@ -17,7 +17,7 @@
 <div>
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0b986801-b594-433a-a1b7-569c4cb3979e" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a411745e-2501-42d5-a84f-e27224c2469b" />
-	<img width="50" height="500" alt="image" src="https://github.com/user-attachments/assets/f0a0f9ca-de75-48f4-9592-2c981b38eebb" />
+	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f0a0f9ca-de75-48f4-9592-2c981b38eebb" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0f7892a8-d63c-4928-bbb5-470359201b93" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=40&showText=true" alt="postgresql" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=40&showText=true" alt="mongodb" />
