@@ -25,7 +25,7 @@
 	<img src="https://www.readmecodegen.com/api/social-icon?name=jira&size=40&showText=true" alt="jira" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=40&showText=true" alt="figma" />
 	<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=40&showText=true" alt="python" />
-	<img src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg" alt="python" width="50" />
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vsc" width="20" />
 	
   
 </div>
@@ -49,4 +49,5 @@
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vladislav-Q)
 
 </div>
+---
 
