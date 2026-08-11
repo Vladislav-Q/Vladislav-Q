@@ -8,7 +8,8 @@
 <img align="right" src="https://github.com/user-attachments/assets/074fd55f-b39b-4873-9619-58b12db8cba8" height="380" alt="work">
 
 Я начинающий ручной тестировщик. Закончил обучение на платформе Stepik и в 
-Корпоративном университете Сбербанка, по направлению QA Engineer, освоил Python на начальном уровне. Cтажировался в СберУниверситете в направлениях Web, Backend, Mobile, составление документации.
+Корпоративном университете Сбербанка, по направлению QA Engineer, освоил Python на начальном уровне. Cтажировался в СберУниверситете в направлениях Web, Backend, Mobile, составление документации.	
+
 Моё резюме: [клик](https://drive.google.com/file/d/1yVoAqITBfv1HE3Dlhxhu8lLfgIe2HkW1/view?usp=sharing)
 
 
@@ -17,22 +18,19 @@
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1e87e76b-7609-45b4-b62d-126e6e1feb95" /> **Инструменты которые помогают мне в работе:**
 
 <div>
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0b986801-b594-433a-a1b7-569c4cb3979e" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a411745e-2501-42d5-a84f-e27224c2469b" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f0a0f9ca-de75-48f4-9592-2c981b38eebb" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0f7892a8-d63c-4928-bbb5-470359201b93" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9951c952-a868-4c96-9a75-1175c2b6a68c" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4b86877e-b2b1-480c-8e5d-95110582e3bd" />
-	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6220a584-55aa-401e-aa9b-a59f816a18fe" />
-	<img width="50" height="50" alt="image" src="https://testit.software/local/templates/testit/img/common/logo-blue.svg"/>
+	<img width="50" height="50" alt="DevTools" title="DevTools" src="https://github.com/user-attachments/assets/0b986801-b594-433a-a1b7-569c4cb3979e" />
+	<img width="50" height="50" alt="Postman" title="Postman" src="https://github.com/user-attachments/assets/a411745e-2501-42d5-a84f-e27224c2469b" />
+	<img width="50" height="50" alt="Swagger" title="Swagger" src="https://github.com/user-attachments/assets/f0a0f9ca-de75-48f4-9592-2c981b38eebb" />
+	<img width="50" height="50" alt="DBeawer" title="DBeawer" src="https://github.com/user-attachments/assets/0f7892a8-d63c-4928-bbb5-470359201b93" />
+	<img width="50" height="50" alt="PostgreSQL" title="PostgreSQL" src="https://github.com/user-attachments/assets/9951c952-a868-4c96-9a75-1175c2b6a68c" />
+	<img width="50" height="50" alt="MongoDB" title="MongoDB" src="https://github.com/user-attachments/assets/4b86877e-b2b1-480c-8e5d-95110582e3bd" />
+	<img width="50" height="50" alt="GitBash" titile="GitBash" src="https://github.com/user-attachments/assets/f647a87d-d298-40e2-b1cd-ad0782933128" />
+	<img width="50" height="50" alt="TestIT" titile="TestIT" src="https://testit.software/local/templates/testit/img/common/logo-blue.svg"/>
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/48293a58-f70f-4859-91eb-9662301f4d59" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3625eec0-bef3-4b63-aa7f-830e0d3ae293" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b3fc74c5-fb20-40a4-adff-4c4ec4f07ae8" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e57cc245-8245-43fb-aae6-de3c5c50a4b0" />
 	<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/34092450-4006-4770-be75-0debc7d25442" />
-
-
-
 </div>
 
 <p align="center">
