@@ -31,7 +31,8 @@
 </div>
 
 <p align="center">
-  <b>Написать мне:</b>
+ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6a3263e7-6553-4173-82ec-45320b367edc" /><b>Написать мне:</b>
+
 </p>
 
 <p align="center">
