@@ -28,23 +28,14 @@
 </div>
 
 ---
+<p align="center">
+  <b>Написать мне:</b>
+</p>
 
-
-
-
-
-<div align="center">
-  <p style="font-size: 18px; font-weight: 600; margin: 0 0 12px 0;">Напиши мне:</p>
-  <a href="https://t.me/vlados_lovandos" target="_blank" rel="noopener noreferrer" style="margin-right: 12px; text-decoration: none; display: inline-block;">
-    <img src="https://github.com/user-attachments/assets/d9e96652-cb78-4587-a0a4-2eedd6febfb1" alt="Telegram" width="40" height="40" style="vertical-align: middle;">
-  </a>
-</div><div align="center"> 
-	<a href="mailto:komarov-vlad@list.ru" style="text-decoration: none; display: inline-block;">
-    <img src="https://github.com/user-attachments/assets/e7fd1787-2dbe-4508-98d1-5ade5daa597f" alt="Email" width="40" height="40" style="vertical-align: middle;">
-  </a>
-</div>
-
-
+<p align="center">
+  <a href="https://t.me/vlados_lovandos"><img src="https://github.com/user-attachments/assets/d9e96652-cb78-4587-a0a4-2eedd6febfb1" alt="Telegram" width="60"></a>&nbsp;&nbsp;
+  <a href="mailto:komarov-vlad@list.ru"><img src="https://github.com/user-attachments/assets/e7fd1787-2dbe-4508-98d1-5ade5daa597f" alt="Email" width="60"></a>
+</p>
 
 ---
 <div align="center">
