@@ -5,14 +5,12 @@
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/57803fd8-07b7-4fd7-b3f7-c8cefedf89c1" /> **Обо мне:**
 
-<img align="right" src="https://github.com/user-attachments/assets/074fd55f-b39b-4873-9619-58b12db8cba8" height="380" alt="work">
+<img align="right" src="https://github.com/user-attachments/assets/074fd55f-b39b-4873-9619-58b12db8cba8" height="390" alt="work">
 
 Я начинающий ручной тестировщик. Закончил обучение на платформе Stepik и в 
 Корпоративном университете Сбербанка, по направлению QA Engineer, освоил Python на начальном уровне. Cтажировался в СберУниверситете в направлениях Web, Backend, Mobile, составление документации.	
 
-Моё резюме: [клик](https://drive.google.com/file/d/1yVoAqITBfv1HE3Dlhxhu8lLfgIe2HkW1/view?usp=sharing)
-
-
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/19aa69ad-1578-464f-9a46-bf2eec8ec097" /> Моё резюме: [клик](https://drive.google.com/file/d/1yVoAqITBfv1HE3Dlhxhu8lLfgIe2HkW1/view?usp=sharing)
 
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1e87e76b-7609-45b4-b62d-126e6e1feb95" /> **Инструменты которые помогают мне в работе:**
