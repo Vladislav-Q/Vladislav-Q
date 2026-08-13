@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/074fd55f-b39b-4873-9619-58b12db8cba8" height="390" alt="work">
 
-Я начинающий ручной тестировщик. Закончил обучение на платформе Stepik и в 
+Я начинающий ручной тестировщик. Закончил обучение в 
 Корпоративном университете Сбербанка, по направлению QA Engineer, освоил Python на начальном уровне. Cтажировался в СберУниверситете в направлениях Web, Backend, Mobile, составление документации.	
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/19aa69ad-1578-464f-9a46-bf2eec8ec097" /> Моё резюме: [клик](https://drive.google.com/file/d/1jtfJ2SnYD0ZOCQm7ZIN3pEoo2rPNzXKR/view?usp=sharing)
